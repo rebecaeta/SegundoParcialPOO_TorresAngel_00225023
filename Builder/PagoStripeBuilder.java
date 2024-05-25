@@ -1,3 +1,7 @@
+package Builder;
+
+import Builder.PagoBuilder;
+
 public class PagoStripeBuilder implements PagoBuilder {
 
     @Override

@@ -1,3 +1,5 @@
+import Builder.PagoPaypalBuilder;
+
 public class PagoPaypal extends PagoPaypalBuilder {
     private String usuario;
     private String contrasena;

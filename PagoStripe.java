@@ -1,3 +1,5 @@
+import Builder.PagoStripeBuilder;
+
 public class PagoStripe extends PagoStripeBuilder {
     private String usuario;
     private String empresa;
